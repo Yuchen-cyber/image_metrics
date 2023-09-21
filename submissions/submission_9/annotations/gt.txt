@@ -1,0 +1,63 @@
+Disease Outbreak
+158864
+3,201.75
+Current Uncertainty:
+Uncertainty level:
+VAverage
+Low
+Simulations
+Population Size
+Citizens Infected
+Low
+Simulations
+(Index of dispersion)
+High
+Rochdale
+[M62]
+People infected by Area per Simulation
+Percentage of Population
+infected
+Simulation 2 - 2
+ Simulation 1 - 2
+Bury
+A627(M)
+M62
+2.70
+Whitefield
+%
+[M60]
+Prestwich
+Simulation 3 - 2 
+ Simulation 4 - 2
+80
+Salford
+Ashton-under-Lyne
+Broylsden
+Stalybrdo
+Dukinfield
+Population impacted (%) per area
+Map Legend
+Denton
+M67
+Hyde
+Area Population
+100
+High
+Low
+Population size
+M60
+0 to 11 to 22 to 44 to 8 8 to 16 16 to
+32 to
+Stockport
+ROMILEY
+ 32
+64 to
+64
+100
+Percentage of population infected (%)
+0%
+Population affected
+100%
+M56
+Marple
+2021 TomTom,2021 Microsoft Corporat

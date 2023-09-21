@@ -1,0 +1,66 @@
+Outbreak Simulation Summary
+30 October 2021
+Scenario Builder
+Predicted Infections
+Impact Summary
+Confidence Selection
+Infections by cell
+Population
+1. Very High
+2.High
+182
+2,839
+3. Medium
+4.Low
+Cells
+5.Very Low
+31
+Impact Selection
+1.Very High
+Infections
+2. High
+894
+3.Medium
+4. Low
+Infection Rate
+5.Very Low
+31%
+Overall Data Profile
+Confidence
+Notes
+Data Source
+24K
+1. Very High
+0014
+21K
+2. High
+No.of Simulation Runs=4
+3.Medlum
+4 Low
+Measures
+5.Very Low
+Confidence
+Estimated Indectiong
+1/CoV
+Range 2.0 - 0
+Impact
+Scaled 0-100%
+Infections/Cell
+1, Very High
+Impact.
+2. High
+ 19
+Infections/Cell
+3.Medlum
+ 26
+Impact range = 0 - 76
+4.LoW
+ 29
+ 36
+Scaled 0-100%
+5. Very Low
+ 76
+OK
+5K
+mapbox
+Estimated inections

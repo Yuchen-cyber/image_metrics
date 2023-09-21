@@ -1,0 +1,54 @@
+Mean infections and Likelihood (CoV)
+Infected people
+** The likelihood increases the
+trumpsai
+Moston
+ Select all
+lower the CoV value**
+a: less than 1
+ b: between 1 and 5
+inverse likelihood (C.
+c: between 5 and 20
+Select all
+d: between 20 and 50
+a: less than 0.5
+b: between 0.5 and 1
+e: more than 50
+c: between 1 and 1.5
+Mean infections
+Coelficient of Variance
+Manchester
+0.25
+76.25
+0.00
+2.00
+Mean infections
+If the simulation indicates no
+infected people,then there is
+nothing shown on the map.
+The infected people (simulation
+mean)is the mean of the 4
+simulation runs which indicate
+the potential number of
+ infected people in each area.
+The coefficient of variance
+(CoV) show how much
+ROIT
+uncertainty there is in the data
+The higher the figure, the less
+certain the simulation output.
+The sliders will alow you to
+Latitude
+53.47
+select different data ranges, you
+Longitude
+-2.19
+can drag either end of the bars.
+You can zoom using the zoom
+Mean
+0.75
+ icons at the top of the map
+infections
+The preselected data in the
+main map shows the highest
+rates of infected people.

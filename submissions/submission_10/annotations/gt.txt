@@ -1,0 +1,28 @@
+Infectious Disease
+Outbreak Simulation: Manchester
+Map Controls
+Infections Per Cell
+Select all
+Very High (>=50% infected)
+High (20% to 50% infected)
+Moderate (5% to 20% infected)
+Low (1% to 5% infected)
+Very Low<1% infected
+Certainty
+Select all
+Almost Certain (~93%
+Probable(~75%
+Bing
+Almost Certain
+Population in Affected Cells
+People Infected in Population
+Proportion [%] Infected
+1966
+909
+48
+Each circle represents a 'cell' with a given population.
+The size indicates the impact measured in proportion of infections per cell.
+The colour indicates levels of certainty. Darker shades are associated with higher levels of certainty.
+However over specific cells for more information.
+Interpretation: SElecting 'Very High' and 'Almost Certain' categories displays
+cells with simulated 50% or more infected with certainty of about 93%

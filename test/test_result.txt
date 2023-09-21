@@ -1,0 +1,13 @@
+These are the results:
+sult:
+precision:0.8876241060559973 recall:0.8621068217056289 F1-score:0.8746793976147699
+text detection testing result:
+precision:0.34605907946873327 recall:0.30755976027411414 F1-score:0.3256755804773265
+text similarity testing result:
+corr:0.8699989309875343 p_value:2.4201673064047692e-266
+text recognition testing result:
+precision:0.9236864979239958 recall:0.8904255926588176 F1-score:0.9067511336421206
+WAVE testing result:
+test passed
+colourfulness testing result:
+test passed

@@ -1,0 +1,42 @@
+Manchester Airborne Infectious Disease Outbreak - File 14
+Overall Infection Estimate - What is the scale of the incident?
+Guidance
+Est. No. Infected People
+No. of locations with at least 1 infections
+Infection Rate
+This will change wrich locations are displayed on the map or included in the selection analysis
+Blue section below can be interacted with by aitering the selection tools.
+6.594
+1924
+1.6%
+Where to send aid? - Identifying locations of Impact & Certainty
+Selection Tools
+ Select all
+ Select all
+Med Impact (6-20)
+Lowr Impact (0 - 5)
+High Certainty (0.0-0.7)
+High Impact (21-40)
+Low Certainty (1.4-2)
+Med. Certainty (0.8-1.3)
+Major Impact(41 +)
+Analysis Of Selected Locations
+Northern Moor
+n Selected
+22
+Infected in Selection
+0.73K(11.12%)
+50%
+5.86K (688.80%)
+Map Key
+Est No. Infections (At a Location)
+Major
+HighMed
+Low
+Certainty (Higher is more uncertain
+0 - 0.7
+0.7 - 1.3
+1.3 - 2
+High
+Med
+Low

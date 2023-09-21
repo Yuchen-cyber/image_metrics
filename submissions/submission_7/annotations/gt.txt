@@ -1,0 +1,43 @@
+Airborne infectious disease outbreak - areas affected in Manchester (DATAFILE_014)
+COBR
+Select your impact/certainty modelling options below.
+Map 1 - Airborne infectious disease outbreak effect - by population cell (datafile_014)
+Choose "High" options to zoom map to priority areas.
+Impact (Infections)
+Certainty (Confidence)
+Barry.Rd
+ Select all
+Select all
+foorLn
+Raoshi Restaurant
+1- Lower Impact
+3-High Certainty
+2 - Moderate Impact
+3 - High Impact
+Cringlewood Crown
+Green Bowls Club
+Results
+Sale Circle
+Based on your selections ABOVE, Map 1 shows that an estimated
+64.73% (476) of 735 will be infected at the locations highlighted
+Rack House
+Manchester College
+Primary School
+Northenden Campus
+Key to Map
+onMoor Rd
+Impact (Number of Infections)
+Certainty (Confidence)
+1
+30+
+nshawe Rd
+Cell Impact and Certainty Definitions:
+Wythenshawe Rd
+High Impact Areas: 30+ people infected (based on average of 4 simulated runs)
+Wythenshawe Rd
+High Certainty Areas: <0.2 variance around the mean (using Coefficient of Variance)
+Only cells with 1+ people estimated to be infected are shown
+mapbox
+Mapbox OpenStreetMap Improve this map
+Low
+HIGH!

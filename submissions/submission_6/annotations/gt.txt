@@ -1,0 +1,72 @@
+Analysis of Infection Impact by Location - Data File O14
+MAP OF AVAILABLE DATA
+KEY FIGURES FOR SELECTED RANGE
+IDENTIFY HIGH RISK LOCATIONS
+Uncertainty Group 0 to 2.5
+population
+Miles  a. 0 to 3 b. 3 to 0.5 c. 6 to 9
+Plotting cells by impact and uncertainty
+2145
+demonstrates which cells are expected
+to suffer the greatest impact. It is also
+% of total population in data
+possible to show where the majority of
+0.5%
+cells are on these measures, and also by
+distance from the origin point (denoted
+estimated infections
+by colour)
+751
+N.B. Bubble size denotes the average
+Uncertainty
+expected outcome per cell
+% total population infected
+35.0%
+Possible Deployment Strategies
+% of all infections
+1. Target Highly Impacted Cells
+2. Focus on Certainty
+11.4%
+High Impact:>=20per cell
+Low Uncertainty:<0.5
+Low Uncertainty:<0.5
+avg. population per cell
+Grp_CoV 0 to 2.5 0.25 to 0.5
+93.3
+Barlow Moo
+avg. infections per cell
+32.7
+max.infections per cell
+76.3
+By selecting the levels of Impact
+and Uncertainty, we can see which
+Uncertainty
+Impact
+estimated wind direction (*N)
+part of the city will be most
+0 to 2.5
+ Select all
+ Select all
+ a. 0-5
+41.0
+affected.
+ 0.25 to 0.5
+ b. 5-10
+c. 10-20
+range of spread in miles
+estimated
+estimated
+N.B Groupings are inclusive of the
+ d. 20-40
+infections
+infections
+infections
+ c. 4060
+infections
+lower boundary
+ f. 60-80
+4.5
+734
+11%
+3.070
+47%

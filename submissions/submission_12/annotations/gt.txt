@@ -1,0 +1,32 @@
+Manchester Outbreak:Potential Impact and Certainty of Airborne Infectious Disease by Area
+Key.
+All areas of Manchester impacted by infections in simulation
+Level of certainty
+Low
+High
+Level of impact (number of infections)
+Detailed view of area with the highest level of
+impact (number of infections) and the highest
+level of certainty
+Low
+High
+Stretfora
+Filter 'All areas' map by the level of
+certainty of the impact
+Select all
+1.High
+2. Medium
+sale
+3. Low
+Filter 'All areas' map by the level of
+impact (number of infections)
+Select all
+1. High
+2. Medium
+3. Low
+Timperle
+Hover the cursor over a circle on
+the map to see further information
+about the population size, number
+of infections and level of certainty
+for that area.
