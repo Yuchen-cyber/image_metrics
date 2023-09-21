@@ -1,4 +1,4 @@
-__This project is made possible through a grant from Newcastle University's Research, Police, Intelligence, and Ethics Team, with permissions granted for its use from April 1, 2021, to May 1, 2023. Consequently, we are unable to publicly display the images associated with this project due to confidentiality agreements. However, you can gain insight into the project's functionality and purpose by reviewing the provided code.__
+**This project is made possible through a grant from Newcastle University's Research, Police, Intelligence, and Ethics Team, with permissions granted for its use from April 1, 2021, to May 1, 2023. Consequently, we are unable to publicly display the images associated with this project due to confidentiality agreements. However, you can gain insight into the project's functionality and purpose by reviewing the provided code.**
 
 
 B.1 Installation
