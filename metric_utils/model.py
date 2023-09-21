@@ -72,7 +72,7 @@ from PIL import Image
 from pydantic import HttpUrl
 
 # First-party modules
-from image_seg_utils import (
+from metric_utils.image_seg_utils import (
     Component,
     binarization,
     compo_block_recognition,
@@ -89,7 +89,7 @@ from image_seg_utils import (
     rm_line,
     transform_img,
 )
-from merge_seg_utils import (
+from metric_utils.merge_seg_utils import (
     Element,
     check_containment,
     merge_text_line_to_paragraph,
@@ -100,7 +100,7 @@ from merge_seg_utils import (
     save_elements,
     show_elements,
 )
-from text_seg_utils import (
+from metric_utils.text_seg_utils import (
     Text,
     text2json,
     text_cvt_orc_format_paddle,

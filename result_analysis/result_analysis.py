@@ -1,5 +1,5 @@
 from linear_regression import draw_linear_graph
-from extract_dominant_color import execute_dominant_colour
+from metric_algorithm.extract_dominant_color import execute_dominant_colour
 from pearson_correlation import get_pearson_value
 from draw_result import ( draw_all, 
                          draw_single)

@@ -1,4 +1,4 @@
-from colorfulness import Colorfulness
+from metric_algorithm.colorfulness import Colorfulness
 #https://opencv.org/
 import cv2
 import base64

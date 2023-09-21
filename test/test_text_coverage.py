@@ -1,5 +1,5 @@
-from text_coverage import TextCoverage
-from text_extraction import extract_text_position
+from metric_algorithm.text_coverage import TextCoverage
+from metric_utils.text_extraction import extract_text_position
 import glob
 import base64
 # https://opencv.org/

@@ -1,12 +1,12 @@
 import os
 import csv
 from text_similarirty import TextSimilarity
-from white_space import WhiteSpace
-from text_coverage import TextCoverage
-from NTTR import NTTR
-from saliency import Saliency
-from colorfulness import Colorfulness
-from WAVE import WAVE
+from metric_algorithm.white_space import WhiteSpace
+from metric_algorithm.text_coverage import TextCoverage
+from metric_algorithm.NTTR import NTTR
+from metric_algorithm.saliency import Saliency
+from metric_algorithm.colorfulness import Colorfulness
+from metric_algorithm.WAVE import WAVE
 import base64
 import glob
 

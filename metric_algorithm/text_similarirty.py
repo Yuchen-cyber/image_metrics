@@ -7,7 +7,7 @@ from unidecode import unidecode
 import string
 # https://www.sbert.net/
 from sentence_transformers import SentenceTransformer, util
-from text_extraction import text_recognition
+from metric_utils.text_extraction import text_recognition
 from metric import Metric
 
 class TextSimilarity(Metric):

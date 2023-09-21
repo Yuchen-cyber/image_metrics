@@ -1,8 +1,8 @@
 from model import Segmentation
 #https://opencv.org/
 import cv2
-from text_extraction import extract_text_position
-from process_utils import (
+from metric_utils.text_extraction import extract_text_position
+from metric_utils.process_utils import (
     check_intersect, 
 )
 

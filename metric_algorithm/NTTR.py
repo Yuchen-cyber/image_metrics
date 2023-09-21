@@ -2,8 +2,8 @@
 import cv2
 # https://numpy.org/
 import numpy as np
-from text_extraction import extract_text_position
-from process_segmentation import processComponent
+from metric_utils.text_extraction import extract_text_position
+from metric_utils.process_segmentation import processComponent
 from metric import Metric
     
 class NTTR(Metric):

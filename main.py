@@ -1,8 +1,8 @@
 #https://docs.python.org/3/library/argparse.html
-from arg_utils import get_args
-from result_analysis import ResultAnalysis
-from generate_pdf import PDFWriter
-from metrics_calculation import metric_calculation
+from metric_utils.arg_utils import get_args
+from result_analysis.result_analysis import ResultAnalysis
+from result_analysis.generate_pdf import PDFWriter
+from result_analysis.metrics_calculation import metric_calculation
 import sys
 
 def main(args):

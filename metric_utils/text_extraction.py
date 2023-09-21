@@ -2,7 +2,7 @@
 import cv2
 # https://github.com/PaddlePaddle/PaddleOCR
 from paddleocr import PaddleOCR
-from process_utils import (
+from metric_utils.process_utils import (
     check_intersect
 )
 # https://numpy.org/

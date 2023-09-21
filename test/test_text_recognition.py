@@ -1,4 +1,4 @@
-from  text_extraction import text_recognition
+from  metric_utils.text_extraction import text_recognition
 from test_segmentation import calcualte_precision, calcualte_recall
 
 def test_OUT_1R():
